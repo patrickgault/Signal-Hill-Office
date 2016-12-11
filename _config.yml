@@ -1,0 +1,18 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Signal Hill Office Building
+description:
+owner: Signal Hill Office Building
+first_published: 2016
+email: your-email@domain.com
+baseurl: "/signal-hill-office/" # the subpath of your site, e.g. /blog
+url: "http://patrickgault.github.io/" # the base hostname & protocol for your site
+email: /contact/
+
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
