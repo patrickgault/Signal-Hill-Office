@@ -2,9 +2,9 @@
 #
 
 # Site settings
-title: Signal Hill Office Building
+title: Signal Hill Office
 description:
-owner: Signal Hill Office Building
+owner: Signal Hill Office
 first_published: 2016
 email: your-email@domain.com
 baseurl: "/signal-hill-office/" # the subpath of your site, e.g. /blog
